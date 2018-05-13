@@ -1,3 +1,7 @@
+.ipynb_checkpoints
+结果提交/
+.DS_Store
+.gitignore
 RossmannSalesStore_version3.ipynb
 实验过程/
 kaggle-rossman-store-sales
